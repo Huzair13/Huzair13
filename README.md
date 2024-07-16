@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Huzair</h1>
-<h3 align="center">Versatile Full-Stack Developer | Android App Developer | Deep Learning Enthusiast | Passionate about Innovation and Continuous Learning</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzair13" alt="huzair13" /></a> </p>
+<h3 align="center">Versatile Full-Stack Developer | Android App Developer | Deep Learning Enthusiast | Passionate about Innovation and Continuous Learning</h3>
 
 <p align="center">
   🔭 I’m currently working as <a href="https://github.com/Huzair13/Presidio_Training_CSharp">Intern @ PRESIDIO</a><br>
   😎 Check My Profile <a href="https://huzair-portfolio.netlify.app/">https://huzair-portfolio.netlify.app/</a><br>
   📫 How to reach me <a href="mailto:ahamedhuzair13@gmail.com">ahamedhuzair13@gmail.com</a>
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzair13" alt="huzair13" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
