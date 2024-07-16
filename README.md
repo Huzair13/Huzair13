@@ -3,6 +3,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzair13" alt="huzair13" /></a> </p>
 
+<p align="center">
+  🔭 I’m currently working as <a href="https://github.com/Huzair13/Presidio_Training_CSharp">Intern @ PRESIDIO</a><br>
+  😎 Check My Profile <a href="https://huzair-portfolio.netlify.app/">https://huzair-portfolio.netlify.app/</a><br>
+  📫 How to reach me <a href="mailto:ahamedhuzair13@gmail.com">ahamedhuzair13@gmail.com</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/huzair-ahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzair-ahmed" height="30" width="40" /></a>
@@ -50,12 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzair13&theme=dark" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  🔭 I’m currently working as <a href="https://github.com/Huzair13/Presidio_Training_CSharp">Intern @ PRESIDIO</a><br>
-  😎 Check My Profile <a href="https://huzair-portfolio.netlify.app/">https://huzair-portfolio.netlify.app/</a><br>
-  📫 How to reach me <a href="mailto:ahamedhuzair13@gmail.com">ahamedhuzair13@gmail.com</a>
 </p>
 
 
