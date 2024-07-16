@@ -3,13 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzair13" alt="huzair13" /></a> </p>
 
-- 🔭 I’m currently working as **Intern @ PRESIDIO**
+- 🔭 I’m currently working as [Intern @ PRESIDIO](https://github.com/Huzair13/Presidio_Training_CSharp)
+
+- 😎 Check My Profile [https://huzair-portfolio.netlify.app/](https://huzair-portfolio.netlify.app/)
 
 - 📫 How to reach me **ahamedhuzair13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/huzair-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzair-ahmed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/huzair_ahmed_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="huzair_ahmed_r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,8 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzair13&show_icons=true&locale=en" alt="huzair13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzair13&" alt="huzair13" /></p>
-
-
 
 <!--
 **Huzair13/Huzair13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
